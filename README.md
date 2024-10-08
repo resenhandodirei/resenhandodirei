@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on project with SwiftUI and Mobile.
 - 💬 Ask me about ... books?
 - 📫 How to reach me:
-<a href="https://beacons.ai/resenhandodirei">
+<a href="https://beacons.ai/resenhandodirei" </a>
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: i love romance books and Law Books. 
 
