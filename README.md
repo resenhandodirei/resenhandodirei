@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**resenhandodirei/resenhandodirei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on WebDev, SwiftUI and Data Science.
+- 🌱 I’m currently learning ... SwiftUI and ReactNative
+- 👯 I’m looking to collaborate on project with SwiftUI and Mobile.
+- 💬 Ask me about ... books?
+- 📫 How to reach me:
+<a href="https://beacons.ai/resenhandodirei">
+- 😄 Pronouns: ... she/her
+- ⚡ Fun fact: i love romance books and Law Books. 
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=resenhandodirei&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resenhandodirei&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
