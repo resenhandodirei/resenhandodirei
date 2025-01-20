@@ -1,24 +1,36 @@
 # 👋 Hello, I'm Larissa Corrêa!
 
-### 👩‍💻 Full-Stack Developer | Data Science Enthusiast | Law Student
+👩‍💻 Full-Stack & Mobile Developer | Data Science Enthusiast | Law Student
 
-- 🔭 **Currently working on:** Web Development, SwiftUI, and Data Science projects.
-- 🌱 **Learning:** SwiftUI and React Native to create sleek and responsive mobile apps.
-- 👯 **Looking to collaborate:** on SwiftUI and Mobile development projects.
-- 📚 **Ask me about:** romance and law books — I’m always reading something new!
-- 😄 **Pronouns:** She/Her
-- ⚡ **Fun fact:** I love the intersection of technology and law, and I'm a bit obsessed with romance novels and law literature.
+🔭 Currently working on: Developing scalable and efficient applications using React, Angular, Vue.js, and frameworks like React Native and SwiftUI.
 
----
+🌱 Learning: Continuously enhancing skills in TypeScript, Prisma, TypeORM, and PostgreSQL to build robust backend solutions.
 
-### 🛠️ Technologies & Tools
+👯 Looking to collaborate: On innovative projects in Full-Stack and Mobile development, leveraging modern frameworks and technologies.
 
-- **Languages:** Swift, JavaScript, Python, PHP, SQL
-- **Mobile Development:** SwiftUI, React Native
-- **Backend:** Node.js, PostgreSQL
-- **Web Development:** HTML5, CSS3, JavaScript, PHP
-- **Data Science:** Machine Learning, Data Analysis
-- **Other:** Git, Agile Methodologies, JWT Authentication
+📚 Ask me about: Data visualization and machine learning — transforming complex data into actionable insights is my forte!
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: Passionate about blending technology and law, and an avid reader of romance novels and legal literature.
+
+🛠️ Technologies & Tools
+
+Languages: Swift, JavaScript, Python, Django, FastAPI, PHP, SQL, TypeScript
+
+Mobile Development: SwiftUI, React Native
+
+Frontend Frameworks: React, Angular, Vue.js
+
+Backend: Node.js, Flask, Prisma, TypeORM, PostgreSQL
+
+Styling: Tailwind CSS, Chakra UI, Bootstrap, SASS
+
+Data Science: Machine Learning, Data Analysis, Data Visualization with Charts
+
+Other: Git, Agile Methodologies, JWT Authentication
+
+
 
 ---
 
